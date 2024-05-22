@@ -1,15 +1,7 @@
-## About me
+## Hi! 👋 I'm Raitis
 
-👋 Hi, I’m Raitis. I'm a passionate and hard working software developer.
-
-I have experience with:
-- Java 17+
-- Spring Boot 3
-- GIT
-- Typescript
-- React
-- SQL
-- Python 3
-
-I enjoy continually learning about the latest developments and software solutions.
-
+- 🏘️ I'm from Riga, Latvia
+- 🖥️ Currently working as a Java software developer
+- ✍🏻 Proficient in Java, Python and Typescript
+- 🛩️ Currently working on a Java implementation for a flight planner
+- 📧 You can reach me at raitis.sondors.3@gmail.com
